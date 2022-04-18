@@ -1,4 +1,5 @@
 # Igor Danilenko
+
 ---
 ## Contact
 * __E-mail__: idanigor@gmail.com
@@ -7,10 +8,12 @@
 * __Discord__: IDan#6900
 ---
 ## About Myself
+
 I live and work in Kazakhstan. I have been a sales manager for over 10 years. Programming has always aroused my interest and passion. My goal is to gain programming skills and experience in Frontend development.
 
 ---
 ## Skills: 
+
 - HTML
 - CSS
 - SASS
@@ -19,6 +22,7 @@ I live and work in Kazakhstan. I have been a sales manager for over 10 years. Pr
 - Figma
 ---
 ## Code example:
+
 ```
 function order () {
 if ((document.querySelector('img[src*="/bitrix/images/sale/green.gif"]') != null) && (document.getElementById("tbl_sale_order_filterset_filter").disabled == false)) {
@@ -34,10 +38,12 @@ let timerId = setTimeout(function run() {
 ```
 ---
 ##  Experience
+
 No experience yet
 
 ---
 ## Education
+
 *Higher education (Bachelor)*
 
 __University__: Omsk Humanitarian Academy, specialty "Applied Informatics"
@@ -46,6 +52,7 @@ __College__: Trade and Economic College of Kazpotrebsoyuz, specialty "Software f
 
 ---
 ## Languages
+
 - Russian - Native
 - English - A1 - Basic
 - Kazakh - A1 - Basic
