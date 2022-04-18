@@ -44,6 +44,7 @@ __University__: Omsk Humanitarian Academy, specialty "Applied Informatics"
 
 __College__: Trade and Economic College of Kazpotrebsoyuz, specialty "Software for computers and automated systems, Technician-programmer"
 
+---
 ## Languages
 - Russian - Native
 - English - A1 - Basic
