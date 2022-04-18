@@ -7,15 +7,11 @@
 * __E-mail__: idanigor@gmail.com
 * [Telegram](https://t.me/idanigor)
 * [GutHub](https://github.com/idanigor)
-* __Discord__: IDan#6900
-
----
+* __Discord__: [IDan#6900](https://discord.gg/tJy4gvj9RF)
 
 ## About Myself
 
 I live and work in Kazakhstan. I have been a sales manager for over 10 years. Programming has always aroused my interest and passion. My goal is to gain programming skills and experience in Frontend development.
-
----
 
 ## Skills: 
 
@@ -25,8 +21,6 @@ I live and work in Kazakhstan. I have been a sales manager for over 10 years. Pr
 - JavaScript
 - Git
 - Figma
-
----
 
 ## Code example:
 
@@ -44,13 +38,9 @@ let timerId = setTimeout(function run() {
 }, 2000);
 ```
 
----
-
 ##  Experience
 
 No experience yet
-
----
 
 ## Education
 
@@ -59,8 +49,6 @@ No experience yet
 __University__: Omsk Humanitarian Academy, specialty "Applied Informatics"
 
 __College__: Trade and Economic College of Kazpotrebsoyuz, specialty "Software for computers and automated systems, Technician-programmer"
-
----
 
 ## Languages
 
