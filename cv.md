@@ -1,12 +1,10 @@
 # Igor Danilenko
 
----
-
 ## Contact
 
 * __E-mail__: idanigor@gmail.com
 * [Telegram](https://t.me/idanigor)
-* [GutHub](https://github.com/idanigor)
+* [GitHub](https://github.com/idanigor)
 * __Discord__: [IDan#6900](https://discord.gg/tJy4gvj9RF)
 
 ## About Myself
