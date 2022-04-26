@@ -1,3 +1,5 @@
 * {
-  color: grey;
+  box-sizing: border-box;
+  font-family: 'DM Sans', sans-serif;
+  /* font-family: 'Outfit', sans-serif; */
 }
