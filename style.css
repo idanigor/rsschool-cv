@@ -196,8 +196,10 @@ p {
 }
 
 @media (max-width: 650px) {
-	.header__container {
-		display: none;
+	.menu__list {
+		flex-wrap: wrap;
+		gap: 10px;
+		justify-content: space-evenly;
 	}
 }
 @media (max-width: 500px) {
